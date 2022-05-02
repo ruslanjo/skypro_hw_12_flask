@@ -52,3 +52,15 @@ INFO:werkzeug:127.0.0.1 - - [02/May/2022 19:01:33] "[36mGET /static/style.css H
 INFO:werkzeug:127.0.0.1 - - [02/May/2022 19:02:01] "POST /post HTTP/1.1" 200 -
 INFO:werkzeug:127.0.0.1 - - [02/May/2022 19:02:02] "GET /post HTTP/1.1" 200 -
 INFO:werkzeug:127.0.0.1 - - [02/May/2022 19:02:02] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [02/May/2022 19:02:16] "POST /post HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [02/May/2022 19:02:19] "GET /post HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [02/May/2022 19:02:19] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [02/May/2022 19:04:09] "POST /post HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [02/May/2022 19:04:09] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [02/May/2022 19:04:09] "GET /uploads/images/catboost.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [02/May/2022 19:04:15] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [02/May/2022 19:04:15] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:root:Search in progress
+INFO:werkzeug:127.0.0.1 - - [02/May/2022 19:04:19] "GET /search?search=бустинг HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [02/May/2022 19:04:19] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [02/May/2022 19:04:19] "[36mGET /uploads/images/catboost.png HTTP/1.1[0m" 304 -
