@@ -1,0 +1,2 @@
+class ImgUploadError(Exception):
+    pass
